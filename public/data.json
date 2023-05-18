@@ -1,0 +1,47 @@
+[
+  {
+    "movieName": "The Dark Knight",
+    "watchTime": 152,
+    "description": "Gotham's protector battles the Joker's chaos.",
+    "poster": "https://i.postimg.cc/nhvtGXCF/1.jpg",
+    "category": "Action/Crime",
+    "imdbRating": 9.0,
+    "id": 1
+  },
+  {
+    "movieName": "The Shawshank Redemption",
+    "watchTime": 142,
+    "description": "Wrongfully imprisoned men bond over time.",
+    "poster": "https://i.postimg.cc/s2sC63hp/2.jpg",
+    "category": "Drama",
+    "imdbRating": 9.3,
+    "id": 2
+  },
+  {
+    "movieName": "Inception",
+    "watchTime": 148,
+    "description": "Dream thieves venture into a man's subconscious.",
+    "poster": "https://i.postimg.cc/SKdFHH6H/3.jpg",
+    "category": "Action/Sci-Fi",
+    "imdbRating": 8.8,
+    "id": 3
+  },
+  {
+    "movieName": "Forrest Gump",
+    "watchTime": 142,
+    "description": "Simple man becomes unwitting participant in historic events.",
+    "poster": "https://i.postimg.cc/SQvqS0Bh/4.jpg",
+    "category": "Drama/Comedy",
+    "imdbRating": 8.8,
+    "id": 4
+  },
+  {
+    "movieName": "The Godfather",
+    "watchTime": 175,
+    "description": "Mafia family fights for control of organized crime.",
+    "poster": "https://i.postimg.cc/654KTjKG/5.jpg",
+    "category": "Crime/Drama",
+    "imdbRating": 9.2,
+    "id": 5
+  }
+]

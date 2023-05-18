@@ -1,0 +1,48 @@
+.card {
+  border: 1px solid gray;
+  border-radius: 15px;
+  width: 280px;
+  height: 650px;
+}
+
+.movie-poster img {
+  width: 250px;
+  height: 350px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.movie-details {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.movie-name {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.movie-details-common {
+  margin-bottom: 10px;
+}
+
+.star {
+  color: orange;
+}
+
+.btn {
+  width: 70%;
+  margin: 25px auto;
+  margin-top: 20px;
+}
+
+.btn-watch-now {
+  background-color: darkcyan;
+  color: white;
+  width: 70%;
+  padding: 10px;
+  border: 0;
+  text-align: center;
+  cursor: pointer;
+}

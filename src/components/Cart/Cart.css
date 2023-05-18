@@ -1,0 +1,50 @@
+.cart-title {
+  font-size: 25px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.cart-details {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.cart-input {
+  text-align: center;
+  padding: 5px;
+  margin: 15px 0;
+  font-size: 16px;
+}
+
+button {
+  width: 50px;
+  color: white;
+  margin-right: 20px;
+  margin-top: 15px;
+  border: 0;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.btn-1 {
+  background-color: darkcyan;
+}
+
+.btn-2 {
+  background-color: tomato;
+}
+
+.btn-3 {
+  background-color: darkgreen;
+}
+
+.btn-complete {
+  width: 150px;
+  background-color: aqua;
+  color: black;
+  font-size: 18px;
+  padding: 20px;
+  border: 0;
+}
